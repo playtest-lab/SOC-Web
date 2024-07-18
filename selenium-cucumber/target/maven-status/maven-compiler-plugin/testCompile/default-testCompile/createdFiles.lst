@@ -1,0 +1,5 @@
+com\steps\SearchSteps.class
+com\pages\SearchBlogPage.class
+com\steps\SearchAccredited.class
+com\pages\SearchAccreditedPage.class
+com\runners\TestRunner.class
